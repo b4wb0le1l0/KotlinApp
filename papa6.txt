@@ -1,0 +1,3 @@
+ssh -p 2222 s329464@se.ifmo.ru -L 9494:localhost:9494
+java -jar server-1.0-SNAPSHOT.jar
+java -jar client-1.0-SNAPSHOT.jar

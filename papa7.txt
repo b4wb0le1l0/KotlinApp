@@ -1,0 +1,6 @@
+ssh -p 2222 s329464@se.ifmo.ru -L 9494:localhost:9494
+psql -h pg -d studs
+java -jar server.jar
+java -jar client.jar
+select * from flat;
+пароль pgpass: 7rEqb73PsV6VM0bn

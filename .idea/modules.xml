@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Laba5,6.iml" filepath="$PROJECT_DIR$/.idea/Laba5,6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/laba5/consoleApp.iml" filepath="$PROJECT_DIR$/laba5/consoleApp.iml" />
+    </modules>
+  </component>
+</project>
